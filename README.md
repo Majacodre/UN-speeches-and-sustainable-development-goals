@@ -11,4 +11,10 @@ This project investigates economic inequality; specifically, how issues of econo
 
 **Predictive:** Can we predict a country’s degree of economic inequality from language used in its political speeches?
  
-  **Hypothesis:** A country’s degree of economic inequality can be predicted from the words in its political speeches
+  **Hypothesis:** A country’s degree of economic inequality can be predicted from the words in its political speeches.
+
+**Data sources:**
+- USN country codes:  https://unstats.un.org/unsd/methodology/m49/overview
+- Gini-coefficient data: https://archive.ourworldindata.org/20250919-110751/grapher/economic-inequality-gini-index.html
+- Happiness report data: https://www.worldhappiness.report/ed/2024/#appendices-and-data
+- UN speeches: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0TJX8Y
