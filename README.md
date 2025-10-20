@@ -9,6 +9,6 @@ This project investigates economic inequality; specifically, how issues of econo
  
   **Hypothesis:** There is a positive correlation between income inequality and corruption. Additionally, it is expected that a higher frequency of corruption/income inequality-related mentions in political speeches is associated with higher levels of economic inequality.
 
-**Predictive** Can we predict a country’s degree of economic inequality from language used in its political speeches?
+**Predictive:** Can we predict a country’s degree of economic inequality from language used in its political speeches?
  
   **Hypothesis:** A country’s degree of economic inequality can be predicted from the words in its political speeches
